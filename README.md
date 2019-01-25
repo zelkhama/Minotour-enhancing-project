@@ -4,7 +4,8 @@ The objective of this project is to explore methods and techniques to enhance Mi
 
 ### [Doc2vec on reviews](https://github.com/zelkhama/Minotour-enhancing-project/blob/master/Doc2vec%20on%20reviews.ipynb)
 
-This notebook aims at studying the performance of Doc2vec algorithm on customers reviews scrapped from different websites. Firstly we study the similarities between the results of this method, then we study the potentiality of these results to help constructing a supervised places classifier. The data used is contained in [the CSV zipped file] (https://github.com/zelkhama/Minotour-enhancing-project/blob/master/cotedazur_places_full.zip) provided in the repository (the details instructions are in the notebook) 
+This notebook aims at studying the performance of Doc2vec algorithm on customers reviews scrapped from different websites. Firstly we study the similarities between the results of this method, then we study the potentiality of these results to help constructing a supervised places classifier. The data used is contained in 
+[the CSV zipped file] (https://github.com/zelkhama/Minotour-enhancing-project/blob/master/cotedazur_places_full.zip) provided in the repository (the details instructions are in the notebook) 
 
 ### [Word2vec unsupervised clustering](https://github.com/zelkhama/Minotour-enhancing-project/blob/master/Word2vec%20unsupervised%20clustering.ipynb)
 
