@@ -5,7 +5,7 @@ The objective of this project is to explore methods and techniques to enhance Mi
 ### [Doc2vec on reviews](./Doc2vec_on_reviews.ipynb)
 
 This notebook aims at studying the performance of Doc2vec algorithm on customers reviews scrapped from different websites. Firstly we study the similarities between the results of this method, then we study the potentiality of these results to help constructing a supervised places classifier. The data used is contained in 
-[the CSV zipped file] (./cotedazur_places_full.zip) provided in the repository (the details instructions are in the notebook) 
+[the CSV zipped file] provided in the repository (the details instructions are in the notebook) 
 
 ### [Word2vec unsupervised clustering](./Word2vec%20unsupervised%20clustering.ipynb)
 
@@ -14,3 +14,5 @@ In this notebook we explore word2vec algorithms on large text corporas (events &
 ### [Testing Rasa NLU pipeline](./Testing_Rasa_nlu_pipelines.ipynb)
 
 The notebook contains a test evaluation of Minotour on Rasa framework, for both tensorflow and spacy pipelines with increasing training data sizes. It appears that tensorflow_embedding is much faster and gives a very good accuracy while spacy has scalability problems and gives bad results. For more details, take a look at the notebook.
+
+[the CSV zipped file]:./cotedazur_places_full.zip
